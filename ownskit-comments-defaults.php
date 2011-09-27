@@ -2,7 +2,7 @@
 /**
  * Plugin Name: New Page Commenting status defaults
  * Plugin URI: http://www.oksidi.com/wp-ownskit/embed
- * Description: Currently only disables Commenting and Ping Backs from New Pages -form.
+ * Description: Currently only disables Commenting and Ping Backs from New Page -form.
  * Version: 0.1
  * Author: Jari Pennanen <ciantic@oksidi.com>
  * Author URI: http://www.oksidi.com/
