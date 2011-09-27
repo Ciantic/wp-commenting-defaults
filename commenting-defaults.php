@@ -2,12 +2,12 @@
 /**
 Plugin Name:        Commenting Defaults
 Description:        Currently only disables Commenting and Ping Backs from New Page -form.
-Author:             Jari Pennanen <ciantic@oksidi.com>
-Author URI:         http://www.oksidi.com/
+
 License:            Public Domain
 Version:            0.1
-Requires at least:  3.0
-Tested up to:       3.2.1
+Author:             Jari Pennanen <ciantic@oksidi.com>
+Author URI:         http://www.oksidi.com/
+Plugin URI:         http://wordpress.org/extend/plugins/commenting-defaults/
 
 @package commenting-defaults
 **/
