@@ -9,11 +9,10 @@ Version:            0.1
 Requires at least:  3.0
 Tested up to:       3.2.1
 
-@package ownskit-comments-defaults
+@package commenting-defaults
 **/
 
-// "Ownskit" is just silly namespace for my various crap, don't use it elsewhere.
-
+// Only in admin
 if (!is_admin())
     return;
 
